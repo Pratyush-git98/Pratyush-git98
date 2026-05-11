@@ -53,12 +53,4 @@ Play against the computer — classic stuff. Good for practicing DOM manipulatio
 
 ---
 
-### GitHub Stats
-
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratyush-git98&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-git98&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *Still learning, still building. If you find something interesting here, feel free to reach out!*
