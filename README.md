@@ -35,15 +35,18 @@ I'm a developer from Gorakhpur, India who enjoys building things for the web. Cu
 ![Express.js](https://img.shields.io/badge/Express-0A0A0A.svg?style=for-the-badge&logo=Express&logoColor=white)
 
 **Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 **Python Libs**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools**
+
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VITE](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
