@@ -1,16 +1,18 @@
 👋 Hi, I’m Pratyush verma
 
-I'm a developer from Gorakhpur, India who enjoys building things for the web. Currently learning and growing, one project at a time.
-
+I'm a Computer Science student currently building real-world applications and exploring Full-Stack Development and Artificial Intelligence.
+Currently learning, growing and experimenting with technologies across the web development and AI/ML ecosystem.
 ---
 
 ### A bit about me
 
 - 🎓 Currently sharpening my skills in full-stack development
 - 💻 I like working on projects that actually solve something (even if it's just for fun)
+- 🤖 Exploring AI/ML
+- 📚 Always learning something new
+- 🎯 Looking for opportunities to grow through internships and projects
 - 📍 Based in Gorakhpur, India
 - 📬 Reach me at: pratyushdv2468@gmail.com
-- 😄 Pronouns: he/him
 
 ---
 
