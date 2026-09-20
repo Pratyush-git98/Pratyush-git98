@@ -14,7 +14,7 @@ I'm a developer from Gorakhpur, India who enjoys building things for the web. Cu
 
 ---
 
-### What I work with
+### What I know
 
 **Languages**
 
@@ -42,14 +42,6 @@ I'm a developer from Gorakhpur, India who enjoys building things for the web. Cu
 **🎬 Movie Reservation System**  
 A system where users can browse and reserve movie tickets. Built with JavaScript.  
 [View Repo](https://github.com/Pratyush-git98/Movie-Reservation-System)
-
-**🎮 Tic Tac Toe Game**  
-A simple two-player game that runs in the browser. Nothing fancy, just a fun build.  
-[View Repo](https://github.com/Pratyush-git98/Tic-Tac-Toe-game)
-
-**✂️ Stone Paper Scissor Game**  
-Play against the computer — classic stuff. Good for practicing DOM manipulation.  
-[View Repo](https://github.com/Pratyush-git98/Stone-paper-scissor-game)
 
 ---
 
